@@ -26,6 +26,7 @@ import Register from "../Register/Register";
             path:'/register',
             element:<Register/>
         },
+       
       ]
     },
   ]);

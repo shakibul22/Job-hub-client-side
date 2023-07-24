@@ -8,7 +8,7 @@ const CurrentJob = () => {
                 <h2 className=" text-3xl font-serif py-3"><span>Current</span> Job Posts</h2>
             </div>
        
-                <div className="container grid grid-cols-1 md:grid-cols-4 justify-center items-center gap-3 pb-5 px-5 ">
+                <div className="container grid grid-cols-1 md:grid-cols-4 justify-center items-center gap-3 pb-5 px-1 ">
                   
                         <div >
                             <ul className="category flex flex-col justify-center items  gap-5">
